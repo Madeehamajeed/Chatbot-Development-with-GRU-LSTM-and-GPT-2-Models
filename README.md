@@ -1,2 +1,2 @@
 # Chatbot-Development-with-GRU-LSTM-and-GPT-2-Models
-This project focuses on developing a chatbot using recurrent neural networks (GRU and LSTM) and a transformer-based model (GPT-2)
+This project focuses on developing a chatbot using the Sequence-to-Sequence (Seq2Seq) neural network framework, with the Luong attention mechanism. The model was trained on the Cornell Movie-Dialogs Corpus. The main goals of the project were to develop, train, and improve a functional conversational agent, as well as to compare different RNN-based models, GRU and LSTM and a transformer-based model (GPT-2) 
