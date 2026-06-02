@@ -1,0 +1,9 @@
+torch
+numpy
+matplotlib
+seaborn
+nltk
+sklearn
+optuna
+Hugging Face Transformers: transformers, datasets
+Google colab/ Jupyter notbook
